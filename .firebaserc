@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "questions-answers-pablo": {
+      "hosting": {
+        "angular-3": [
+          "questions-answers-pablo"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "questions-answers-pablo"
+  }
+}
